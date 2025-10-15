@@ -369,7 +369,7 @@ select{
 }
 .okes{
      width: 22vw; 
-     height:20vh;
+     height:30vh;
      border-radius: 2vw;
      margin-top: 2vw;
      margin-bottom: 2vw;
@@ -396,4 +396,7 @@ select{
 
 .board img{
     width:8vw;
+    height:100vh;
+    margin-bottom:5%;
+    
 }
